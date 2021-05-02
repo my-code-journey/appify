@@ -1,7 +1,7 @@
 {
-  "name": "Houston Zoo",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
+    "name": "Portfolio",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "angular"
 }
