@@ -16,13 +16,13 @@ https://github.com/S-codes14/appify
 
 ## How to use this amazing "thing"
 
-1.make sure the website is responsive
-2.clone this repo https://github.com/S-codes14/appify
-3.run  '''  npm install  '''
-4.locate to .src/app/home/home.page.html change src to your url
-5.then locate to ./capacitor.config.json make your own custom appID and also write your appName
-6.then locate to ./ionic.config.json and write your custom app name
-7.then you can build it by running ''' ng build '''
+1.make sure the website is responsive </br>
+2.clone this repo https://github.com/S-codes14/appify </br>
+3.run  '''  npm install  ''' </br>
+4.locate to .src/app/home/home.page.html change src to your url </br>
+5.then locate to ./capacitor.config.json make your own custom appID and also write your appName </br>
+6.then locate to ./ionic.config.json and write your custom app name </br>
+7.then you can build it by running ''' ng build ''' </br>
 
 
 
